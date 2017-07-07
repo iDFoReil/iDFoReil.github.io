@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Minimalistic DFoR's web-page on GitHub
 
 You can use the [editor on GitHub](https://github.com/iDFoReil/iDFoRieil.github.oi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
