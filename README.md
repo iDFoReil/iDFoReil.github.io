@@ -1,5 +1,7 @@
 ## Minimalistic DFoR's web-page on GitHub
 
+![image](https://vignette1.wikia.nocookie.net/characters/images/1/15/Bugs.jpg/revision/latest?cb=20110224072532)
+
 You can use the [editor on GitHub](https://github.com/iDFoReil/iDFoRieil.github.oi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
